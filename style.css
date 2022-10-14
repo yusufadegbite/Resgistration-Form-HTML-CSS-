@@ -1,0 +1,115 @@
+body {
+    width: 100%;
+    background: linear-gradient(to bottom right, #D42B6E, #B343F5);
+    height: auto;
+}
+
+.container-div {
+    display: flex;
+    justify-content: center;
+    margin: 3em 0;
+}
+
+.container {
+    padding: 3em 2em;
+    box-shadow: 0 0 3px #000;
+}
+
+.container h2 {
+    text-align: center;
+    line-height: 1rem;
+}
+
+.container hr {
+    margin: 0 0 2em 0;
+}
+
+.form-group {
+    margin: 1em 0 0 0;
+}
+
+.form-group-btn {
+    margin: 1.5em 0 0 0;
+}
+
+.form-group-btn-register {
+    margin: 1.5em 0 0 0;
+}
+
+
+
+.form-group select {
+    width: 26.3rem;
+    height: 2.3rem;
+    font-size: 15px;
+    margin: 0.3rem 0 0 0;
+}
+
+.form-group input {
+    padding: 0.5rem;
+    width: 25rem;
+    margin: 0.3rem 0 0 0;
+}
+
+.form-group .color {
+    width: 26.2rem;
+    height: 2rem;
+}
+
+
+.form-group-btn a {
+    text-decoration: none;
+    color: white;
+    font-size: large;
+    border-radius: 5px;
+    padding: 0.5rem 11.8rem;
+    background: #D42B6E;
+    text-align: center;
+}
+
+.form-group-btn-register a {
+    text-decoration: none;
+    color: white;
+    font-size: large;
+    border-radius: 5px;
+    padding: 0.5rem 11.2rem;
+    background: #D42B6E;
+    text-align: center;
+}
+
+
+
+/*style the login form */
+.container-div-login {
+    display: flex;
+    justify-content: center;
+    margin: 8em 0;
+}
+
+/* success page */
+
+.container-div-success {
+    display: flex;
+    justify-content: center;
+    margin: 13em 0;
+}
+
+.container-success {
+    padding: 3em 2em;
+    box-shadow: 0 0 3px #000; 
+    text-align: center;
+}
+
+.container-success i {
+    font-size: 2.5rem;
+    color: greenyellow;
+}
+
+.container-success h3 {
+     line-height: 1rem;
+}
+
+.container-success p {
+    font-size: 18px;
+}
+
